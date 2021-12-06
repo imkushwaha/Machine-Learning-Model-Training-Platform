@@ -83,6 +83,6 @@ if __name__ == "__main__":
     role_id = user_detail['role_id']
     save_user_detail(email, role_id)
     email_config = config_detail["email_config"]
-    email_config["passkey"] = encrypter.encrypt_message(email_config["passkey"], key)    
+    email_config["passkey"] = encrypter.encrypt_message(email_config["passkey"])    
     save_email_configuration(email_config)
     print(config_detail)

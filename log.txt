@@ -1229,3 +1229,56 @@ f6d9655e-35a8-405f-a9ba-f5f587170d9f: 2021-12-05 15:18:24 >InputFile.csv created
 f6d9655e-35a8-405f-a9ba-f5f587170d9f: 2021-12-05 15:18:37 >Start of Training
 f6d9655e-35a8-405f-a9ba-f5f587170d9f: 2021-12-05 15:18:49 >Entered the get_data method of the Data_Getter class
 f6d9655e-35a8-405f-a9ba-f5f587170d9f: 2021-12-05 15:18:57 >Data Load Successful.Exited the get_data method of the Data_Getter class
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:27 >Archiving of existing model begin
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:29 >Source company_name/training/data/project/Insurance_Fraud_Detection/model directory is not found 
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:37 >Start of Validation on files!!
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:37 >LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 39
+
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:37 >Removing bad raw directory
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:38 >company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory deleted successfully
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:38 >Removing good raw directory
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:39 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files directory deleted successfully
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:39 >Good raw and bad raw directory creation begin..
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:49 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files and company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory created successfully
+7dc21a0e-7e83-47d5-abad-41e703c8ef0e: 2021-12-07 00:03:49 >Directory [company_name/training/data/project/Insurance_Fraud_Detection/training_batch_files/] is not present
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:30 >Archiving of existing model begin
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:31 >Source company_name/training/data/project/Insurance_Fraud_Detection/model directory is not found 
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:36 >Start of Validation on files!!
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:37 >LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 39
+
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:37 >Removing bad raw directory
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:38 >company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory deleted successfully
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:38 >Removing good raw directory
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:39 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files directory deleted successfully
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:39 >Good raw and bad raw directory creation begin..
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:49 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files and company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory created successfully
+169f0aac-f844-4a20-af42-33c34254159c: 2021-12-07 00:07:49 >Directory [company_name/training/data/project/Insurance_Fraud_Detection/training_batch_files/] is not present
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:44 >Archiving of existing model begin
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:44 >Source company_name/training/data/project/Insurance_Fraud_Detection/model directory is not found 
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:49 >Start of Validation on files!!
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:49 >LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 39
+
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:49 >Removing bad raw directory
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:51 >company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory deleted successfully
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:51 >Removing good raw directory
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:52 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files directory deleted successfully
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:10:52 >Good raw and bad raw directory creation begin..
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:11:00 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files and company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory created successfully
+8b16d5c2-aafb-4b29-9947-58c3d84f7471: 2021-12-07 00:11:00 >Directory [company_name/training/data/project/Insurance_Fraud_Detection/training_batch_files/] is not present
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:44 >Archiving of existing model begin
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:46 >Source company_name/training/data/project/Insurance_Fraud_Detection/model directory is not found 
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:50 >Start of Validation on files!!
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:51 >LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 39
+
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:51 >Removing bad raw directory
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:51 >company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory deleted successfully
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:51 >Removing good raw directory
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:52 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files directory deleted successfully
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:18:52 >Good raw and bad raw directory creation begin..
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:19:00 >company_name/training/data/project/Insurance_Fraud_Detection/good_raw_data_files and company_name/training/data/project/Insurance_Fraud_Detection/bad_raw_data_files directory created successfully
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:19:02 >Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:19:02 >Column Length Validation Started!!
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:19:04 >Column Length Validation Completed!!
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:19:04 >Missing Values Validation Started!!
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:19:09 >Raw Data Validation Complete!!
+1e991874-4e0b-4667-9e5f-c7f3495408cc: 2021-12-07 00:19:09 >Starting Data Transforamtion!!

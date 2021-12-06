@@ -3,7 +3,9 @@ App password
 bzokcbytncjodsjg
 
 
-mongodb+srv://upendra:<password>@cluster0.azgmt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+mongodb+srv://Upendra:<password>@mlmongodb.he0tx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+mongodb+srv://Upendra:upend764@mlmongodb.he0tx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 
-mongodb+srv://{0}:{1}@cluster0.azgmt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false
